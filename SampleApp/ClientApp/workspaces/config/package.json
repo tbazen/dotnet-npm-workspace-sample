@@ -1,0 +1,12 @@
+{
+  "name": "@clientapp/config",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests for cofig.\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

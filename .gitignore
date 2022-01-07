@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/dotnet-npm-workspace-sample
+/SampleApp/ClientApp/node_modules

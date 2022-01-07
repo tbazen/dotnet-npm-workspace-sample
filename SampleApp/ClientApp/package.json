@@ -1,0 +1,14 @@
+{
+  "name": "@clientapp/root",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start:table": "npm run start -w @clientapp/table",
+    "start:card": "npm run start -w @clientapp/card",
+    "build:table": "npm run build -w @clientapp/table",
+    "build:card": "npm run build -w @clientapp/card"
+  },
+  "workspaces": [
+    "workspaces/*/**"
+  ]
+}
